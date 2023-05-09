@@ -1,2 +1,2 @@
-# palempire
-Pal Empire Historical Archives Website
+# houseofpal
+House of Pal Historical Archives Website
